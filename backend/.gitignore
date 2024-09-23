@@ -1,3 +1,5 @@
 package-lock.json
 node_modules/
 .env
+dlib-19.24.1-cp311-cp311-win_amd64.whl
+venv/
